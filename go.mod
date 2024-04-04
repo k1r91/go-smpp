@@ -1,4 +1,4 @@
-module github.com/fiorix/go-smpp
+module github.com/k1r91/go-smpp
 
 go 1.16
 
