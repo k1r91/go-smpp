@@ -10,8 +10,8 @@ import (
 	"io"
 	"sync/atomic"
 
-	"github.com/fiorix/go-smpp/smpp/pdu/pdufield"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdutlv"
+	"github.com/k1r91/go-smpp/smpp/pdu/pdufield"
+	"github.com/k1r91/go-smpp/smpp/pdu/pdutlv"
 )
 
 var nextSeq uint32
